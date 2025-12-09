@@ -3,14 +3,7 @@
     {
       "question": "What is your name?",
       "answer": "My name is GooglBot!"
-    },
-    {
-      "question": "hi",
-      "answer": "hi"
-    },
-    {
-      "question": "hey",
-      "answer": "hi"
     }
   ]
+
 }
